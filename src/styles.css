@@ -17,6 +17,12 @@ h3 {
   line-height: 1.5;
 }
 
+p {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
 .hero-section {
   background-color: #f9f7fd;
   text-align: center;
@@ -32,7 +38,7 @@ h3 {
   background-color: #6b63ff;
   color: white;
   text-decoration: none;
-  padding: 15px 35px;
+  padding: 15px 40px;
   border-radius: 5px;
 }
 
@@ -40,7 +46,6 @@ h3 {
   color: white;
   background-color: #564fe2;
 }
-
 .contact {
   margin: 0px 10px;
   color: #6b63ff;
@@ -53,4 +58,25 @@ h3 {
 .contact:hover {
   background-color: white;
   color: #6b63ff;
+}
+
+.project-button {
+  color: #6b63ff;
+  border: 1px solid #6b63ff;
+  text-decoration: none;
+  padding: 15px 35px;
+  border-radius: 5px;
+}
+
+.project-button:hover {
+  color: white;
+  background-color: #6b63ff;
+}
+
+.project-description {
+  padding: 120px 50px;
+}
+
+.project-title {
+  font-size: 64px;
 }
