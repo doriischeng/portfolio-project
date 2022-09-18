@@ -93,3 +93,25 @@ p {
 .project-title {
   font-size: 64px;
 }
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 48px;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  .project-title {
+    font-size: 48px;
+  }
+
+  .project-image {
+    display: none;
+  }
+}
