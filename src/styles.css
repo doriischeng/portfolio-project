@@ -39,6 +39,7 @@ p {
   text-align: center;
   padding: 150px 20px;
 }
+
 .navigation-links {
   display: flex;
   justify-content: center;
@@ -57,6 +58,7 @@ p {
   color: white;
   background-color: var(--hover-color);
 }
+
 .contact {
   margin: 0px 10px;
   color: var(--primary-color);
