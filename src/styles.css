@@ -94,6 +94,14 @@ p {
   font-size: 64px;
 }
 
+.about-section {
+  padding: 100px 30px;
+}
+
+.about-description {
+  padding: 40px 0px;
+}
+
 @media (max-width: 576px) {
   h1 {
     font-size: 48px;
@@ -113,5 +121,9 @@ p {
 
   .project-image {
     display: none;
+  }
+
+  .about-section {
+    text-align: center;
   }
 }
