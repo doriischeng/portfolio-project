@@ -124,7 +124,8 @@ p {
     display: none;
   }
 
-  .about-section {
+  .about-section,
+  .contact-section {
     text-align: center;
   }
 }
