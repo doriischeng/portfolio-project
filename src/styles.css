@@ -94,7 +94,8 @@ p {
   font-size: 64px;
 }
 
-.about-section {
+.about-section,
+.contact-section {
   padding: 100px 30px;
 }
 
