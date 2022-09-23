@@ -94,8 +94,7 @@ p {
   font-size: 64px;
 }
 
-.about-section,
-.contact-section {
+.content-container {
   padding: 100px 30px;
 }
 
@@ -124,8 +123,7 @@ p {
     display: none;
   }
 
-  .about-section,
-  .contact-section {
+  .content-container {
     text-align: center;
   }
 }
