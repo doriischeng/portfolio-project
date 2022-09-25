@@ -128,6 +128,15 @@ li.active a {
   padding: 40px 0px;
 }
 
+footer .contact-box {
+  padding: 50px 120px;
+  background-color: var(--hero-background-color);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+
 footer .email a {
   font-size: 24px;
   display: flex;
